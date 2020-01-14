@@ -28,7 +28,7 @@ public class Controller {
 	}
 
 	/*
-	 * Simple method to handle a post request by receiving two string and returning
+	 * Handle a post request by receiving two string and returning
 	 * a String array
 	 */
 	@PostMapping("/doPost")
